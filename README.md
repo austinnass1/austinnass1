@@ -1,4 +1,5 @@
 ### Hi there 👋
+## My name is Austin, and my current degree at Raritan Valley Community College is Information Systems and Technology. 
 
 <!--
 **austinnass1/austinnass1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
