@@ -1,17 +1,11 @@
-### Hi there 👋
+### Hello!
 ## My name is Austin, and my current degree at Raritan Valley Community College is Information Systems and Technology. 
 Im Currently looking to collaborate on making a driving game one day in the future using either Javascript or Python
-<!--
-**austinnass1/austinnass1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-<p> 🔭 I’m currently working on seeking a degree at RVCC. </p>
+-🔭 I’m currently working on seeking a degree at RVCC.
 - 🌱 I’m currently learning many computer classes to help me obtain my Information Systems Degree. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on eventually developing a Javascript-based driving map on a public platform. 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: my snapchat: austin_nass1, or my instagram at @austinn37
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: I enjoy learning about computers that were based around the 1980's or 1990's. 
