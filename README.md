@@ -1,5 +1,5 @@
 ### Hello!
-## My name is Austin, and my current degree at Raritan Valley Community College is Information Systems and Technology. 
+## My name is Austin, and my current degree at Raritan Valley Community College is Information Systems and Technology/IDMX Programming. 
 Im Currently looking to collaborate on making a driving game one day in the future using either Javascript or Python
 
 -🔭 I’m currently working on seeking a degree at RVCC.
